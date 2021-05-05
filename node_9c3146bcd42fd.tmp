@@ -1,0 +1,14 @@
+let caixa = [4]
+let c = 'c'
+let f = 'f'
+let g = 'g' 
+let kombi = [5]
+let esteira = ['c', 'f', 'g', 'g', 'c', 'g', 'c',]
+let braco;
+
+for(cont = 0; cont != esteira.slice(c); cont++){
+    if(esteira[cont] == c){
+        caixa = esteira[cont]
+    }
+    console.log(caixa)
+}
